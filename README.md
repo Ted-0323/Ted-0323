@@ -1,6 +1,6 @@
 ><h3>WE CAN CREATE THE NEW WORLD</h3>
 
-<img src="https://user-images.githubusercontent.com/56721888/183791851-0ccf3aa9-b129-4a7f-aec3-9ce11568c791.JPG"  width="60%" height="60%"/>
+<!-- <img src="https://user-images.githubusercontent.com/56721888/183791851-0ccf3aa9-b129-4a7f-aec3-9ce11568c791.JPG"  width="60%" height="60%"/> -->
 
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -11,7 +11,7 @@
 
 | Main skill | Sub skill(as hobby) |
 | :---:|:---: |
-| Unity3D, TypeScript, Python | Unreal Engine 4, C4D, PHP |
+| Unity3D, TypeScript, Python, PHP | Unreal Engine 4, C4D |
 
 <h3>Career</h3>
 
